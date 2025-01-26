@@ -35,3 +35,12 @@ console.log(accountBalance); // 2700
 let customerName = "Micheal Jordan";
 let welcomeMessage = "Welcome back" + customerName + ", thank you for shopping with us!";
 console.log(welcomeMessage);
+
+// Task 5 Boolean Data Type
+let isLoggedIn = true;
+if (isLoggedIn) {
+    console.log("Access granted: User is logged in.");
+} else {
+    console.log(Acces denied: User is not logged in.);
+}
+//DONE//
