@@ -41,7 +41,7 @@ let isLoggedIn = true;
 if (isLoggedIn) {
     console.log("Access granted: User is logged in.");
 } else {
-    console.log("Acces denied: User is not logged in.");
+    console.log("Access denied: User is not logged in.");
 
 }
 //DONE//
